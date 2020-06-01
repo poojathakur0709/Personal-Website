@@ -3,7 +3,7 @@ body {
   margin-left: 0;
   margin-right: 0;
   font-family: 'DM Mono', monospace;
-  width:100%;
+
 }
 
 /*headings.........................................*/
@@ -68,7 +68,7 @@ p {
   background-image: url(p2.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
-  width:100%;
+
   color: white;
   text-align: center;
   height: 570px;
